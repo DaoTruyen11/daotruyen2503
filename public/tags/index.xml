@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Profile</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://hugo-profile.netlify.app/tags/</link>
     <description>Recent content in Tags on Profile</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 31 Dec 2024 16:00:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hugo-profile.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java</title>
-      <link>http://localhost:1313/tags/java/</link>
+      <link>https://hugo-profile.netlify.app/tags/java/</link>
       <pubDate>Tue, 31 Dec 2024 16:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/tags/java/</guid>
+      <guid>https://hugo-profile.netlify.app/tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>Lập Trình Hướng Đối Tượng</title>
-      <link>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh-h%C6%B0%E1%BB%9Bng-%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/</link>
+      <link>https://hugo-profile.netlify.app/tags/l%E1%BA%ADp-tr%C3%ACnh-h%C6%B0%E1%BB%9Bng-%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/</link>
       <pubDate>Tue, 31 Dec 2024 16:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh-h%C6%B0%E1%BB%9Bng-%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/</guid>
+      <guid>https://hugo-profile.netlify.app/tags/l%E1%BA%ADp-tr%C3%ACnh-h%C6%B0%E1%BB%9Bng-%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/</guid>
       <description></description>
     </item>
     <item>
       <title>OOP</title>
-      <link>http://localhost:1313/tags/oop/</link>
+      <link>https://hugo-profile.netlify.app/tags/oop/</link>
       <pubDate>Tue, 31 Dec 2024 16:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/tags/oop/</guid>
+      <guid>https://hugo-profile.netlify.app/tags/oop/</guid>
       <description></description>
     </item>
     <item>
       <title>List</title>
-      <link>http://localhost:1313/tags/list/</link>
+      <link>https://hugo-profile.netlify.app/tags/list/</link>
       <pubDate>Tue, 31 Dec 2024 15:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/tags/list/</guid>
+      <guid>https://hugo-profile.netlify.app/tags/list/</guid>
       <description></description>
     </item>
     <item>
       <title>Mảng</title>
-      <link>http://localhost:1313/tags/m%E1%BA%A3ng/</link>
+      <link>https://hugo-profile.netlify.app/tags/m%E1%BA%A3ng/</link>
       <pubDate>Tue, 31 Dec 2024 15:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/tags/m%E1%BA%A3ng/</guid>
+      <guid>https://hugo-profile.netlify.app/tags/m%E1%BA%A3ng/</guid>
       <description></description>
     </item>
     <item>
       <title>Function</title>
-      <link>http://localhost:1313/tags/function/</link>
+      <link>https://hugo-profile.netlify.app/tags/function/</link>
       <pubDate>Tue, 31 Dec 2024 14:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/tags/function/</guid>
+      <guid>https://hugo-profile.netlify.app/tags/function/</guid>
       <description></description>
     </item>
     <item>
       <title>Hàm</title>
-      <link>http://localhost:1313/tags/h%C3%A0m/</link>
+      <link>https://hugo-profile.netlify.app/tags/h%C3%A0m/</link>
       <pubDate>Tue, 31 Dec 2024 14:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/tags/h%C3%A0m/</guid>
+      <guid>https://hugo-profile.netlify.app/tags/h%C3%A0m/</guid>
       <description></description>
     </item>
     <item>
       <title>Vòng Lặp</title>
-      <link>http://localhost:1313/tags/v%C3%B2ng-l%E1%BA%B7p/</link>
+      <link>https://hugo-profile.netlify.app/tags/v%C3%B2ng-l%E1%BA%B7p/</link>
       <pubDate>Tue, 31 Dec 2024 13:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/tags/v%C3%B2ng-l%E1%BA%B7p/</guid>
+      <guid>https://hugo-profile.netlify.app/tags/v%C3%B2ng-l%E1%BA%B7p/</guid>
       <description></description>
     </item>
     <item>
       <title>Điều Kiện</title>
-      <link>http://localhost:1313/tags/%C4%91i%E1%BB%81u-ki%E1%BB%87n/</link>
+      <link>https://hugo-profile.netlify.app/tags/%C4%91i%E1%BB%81u-ki%E1%BB%87n/</link>
       <pubDate>Tue, 31 Dec 2024 12:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/tags/%C4%91i%E1%BB%81u-ki%E1%BB%87n/</guid>
+      <guid>https://hugo-profile.netlify.app/tags/%C4%91i%E1%BB%81u-ki%E1%BB%87n/</guid>
       <description></description>
     </item>
     <item>
       <title>If-Else</title>
-      <link>http://localhost:1313/tags/if-else/</link>
+      <link>https://hugo-profile.netlify.app/tags/if-else/</link>
       <pubDate>Tue, 31 Dec 2024 12:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/tags/if-else/</guid>
+      <guid>https://hugo-profile.netlify.app/tags/if-else/</guid>
       <description></description>
     </item>
     <item>
       <title>Switch</title>
-      <link>http://localhost:1313/tags/switch/</link>
+      <link>https://hugo-profile.netlify.app/tags/switch/</link>
       <pubDate>Tue, 31 Dec 2024 12:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/tags/switch/</guid>
+      <guid>https://hugo-profile.netlify.app/tags/switch/</guid>
       <description></description>
     </item>
     <item>
       <title>Biểu Thức</title>
-      <link>http://localhost:1313/tags/bi%E1%BB%83u-th%E1%BB%A9c/</link>
+      <link>https://hugo-profile.netlify.app/tags/bi%E1%BB%83u-th%E1%BB%A9c/</link>
       <pubDate>Tue, 31 Dec 2024 11:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/tags/bi%E1%BB%83u-th%E1%BB%A9c/</guid>
+      <guid>https://hugo-profile.netlify.app/tags/bi%E1%BB%83u-th%E1%BB%A9c/</guid>
       <description></description>
     </item>
     <item>
       <title>Toán Tử</title>
-      <link>http://localhost:1313/tags/to%C3%A1n-t%E1%BB%AD/</link>
+      <link>https://hugo-profile.netlify.app/tags/to%C3%A1n-t%E1%BB%AD/</link>
       <pubDate>Tue, 31 Dec 2024 11:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/tags/to%C3%A1n-t%E1%BB%AD/</guid>
+      <guid>https://hugo-profile.netlify.app/tags/to%C3%A1n-t%E1%BB%AD/</guid>
       <description></description>
     </item>
     <item>
       <title>Biến</title>
-      <link>http://localhost:1313/tags/bi%E1%BA%BFn/</link>
+      <link>https://hugo-profile.netlify.app/tags/bi%E1%BA%BFn/</link>
       <pubDate>Tue, 31 Dec 2024 10:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/tags/bi%E1%BA%BFn/</guid>
+      <guid>https://hugo-profile.netlify.app/tags/bi%E1%BA%BFn/</guid>
       <description></description>
     </item>
     <item>
       <title>Kiểu Dữ Liệu</title>
-      <link>http://localhost:1313/tags/ki%E1%BB%83u-d%E1%BB%AF-li%E1%BB%87u/</link>
+      <link>https://hugo-profile.netlify.app/tags/ki%E1%BB%83u-d%E1%BB%AF-li%E1%BB%87u/</link>
       <pubDate>Tue, 31 Dec 2024 10:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/tags/ki%E1%BB%83u-d%E1%BB%AF-li%E1%BB%87u/</guid>
+      <guid>https://hugo-profile.netlify.app/tags/ki%E1%BB%83u-d%E1%BB%AF-li%E1%BB%87u/</guid>
       <description></description>
     </item>
     <item>
       <title>Cơ Bản</title>
-      <link>http://localhost:1313/tags/c%C6%A1-b%E1%BA%A3n/</link>
+      <link>https://hugo-profile.netlify.app/tags/c%C6%A1-b%E1%BA%A3n/</link>
       <pubDate>Tue, 31 Dec 2024 09:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/tags/c%C6%A1-b%E1%BA%A3n/</guid>
+      <guid>https://hugo-profile.netlify.app/tags/c%C6%A1-b%E1%BA%A3n/</guid>
       <description></description>
     </item>
     <item>
       <title>Học Lập Trình</title>
-      <link>http://localhost:1313/tags/h%E1%BB%8Dc-l%E1%BA%ADp-tr%C3%ACnh/</link>
+      <link>https://hugo-profile.netlify.app/tags/h%E1%BB%8Dc-l%E1%BA%ADp-tr%C3%ACnh/</link>
       <pubDate>Tue, 31 Dec 2024 09:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/tags/h%E1%BB%8Dc-l%E1%BA%ADp-tr%C3%ACnh/</guid>
+      <guid>https://hugo-profile.netlify.app/tags/h%E1%BB%8Dc-l%E1%BA%ADp-tr%C3%ACnh/</guid>
       <description></description>
     </item>
     <item>
       <title>Học Java</title>
-      <link>http://localhost:1313/tags/h%E1%BB%8Dc-java/</link>
+      <link>https://hugo-profile.netlify.app/tags/h%E1%BB%8Dc-java/</link>
       <pubDate>Tue, 31 Dec 2024 08:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/tags/h%E1%BB%8Dc-java/</guid>
+      <guid>https://hugo-profile.netlify.app/tags/h%E1%BB%8Dc-java/</guid>
       <description></description>
     </item>
     <item>
       <title>Lập Trình</title>
-      <link>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
+      <link>https://hugo-profile.netlify.app/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
       <pubDate>Tue, 31 Dec 2024 08:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</guid>
+      <guid>https://hugo-profile.netlify.app/tags/l%E1%BA%ADp-tr%C3%ACnh/</guid>
       <description></description>
     </item>
   </channel>
