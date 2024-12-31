@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biến on Profile</title>
+    <link>http://localhost:1313/tags/bi%E1%BA%BFn/</link>
+    <description>Recent content in Biến on Profile</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 31 Dec 2024 10:00:00 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/bi%E1%BA%BFn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bài 3: Biến và kiểu dữ liệu</title>
+      <link>http://localhost:1313/blog/baiviet3/</link>
+      <pubDate>Tue, 31 Dec 2024 10:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/blog/baiviet3/</guid>
+      <description>&lt;h2 id=&#34;biến-trong-java&#34;&gt;Biến trong Java&lt;/h2&gt;&#xA;&lt;p&gt;Biến là nơi lưu trữ dữ liệu trong bộ nhớ.&lt;/p&gt;&#xA;&lt;h3 id=&#34;cú-pháp-khai-báo&#34;&gt;Cú pháp khai báo&lt;/h3&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;kiểu dữ liệu&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;tên biến&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;giá trị&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt;;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

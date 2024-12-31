@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lập Trình on Profile</title>
+    <link>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
+    <description>Recent content in Lập Trình on Profile</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 31 Dec 2024 08:00:00 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bài 1: Giới thiệu về Java</title>
+      <link>http://localhost:1313/blog/baiviet1/</link>
+      <pubDate>Tue, 31 Dec 2024 08:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/blog/baiviet1/</guid>
+      <description>&lt;h2 id=&#34;giới-thiệu-java&#34;&gt;Giới thiệu Java&lt;/h2&gt;&#xA;&lt;p&gt;Java là một ngôn ngữ lập trình bậc cao, hướng đối tượng, và đa nền tảng. Nó được phát triển bởi Sun Microsystems (nay thuộc Oracle). Java được sử dụng trong phát triển ứng dụng web, di động, và phần mềm doanh nghiệp.&lt;/p&gt;&#xA;&lt;h3 id=&#34;lý-do-học-java&#34;&gt;Lý do học Java&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Được sử dụng rộng rãi trong các ngành công nghiệp.&lt;/li&gt;&#xA;&lt;li&gt;Đa nền tảng với khẩu hiệu &amp;ldquo;Write Once, Run Anywhere&amp;rdquo;.&lt;/li&gt;&#xA;&lt;li&gt;Có cộng đồng hỗ trợ lớn và tài liệu phong phú.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;cách-cài-đặt-java&#34;&gt;Cách cài đặt Java&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Tải Java Development Kit (JDK) từ &lt;a href=&#34;https://www.oracle.com/java/technologies/javase-downloads.html&#34;&gt;Oracle&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Cài đặt IDE như IntelliJ IDEA, Eclipse, hoặc VS Code.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Chú ý&lt;/strong&gt;: Đảm bảo cài đặt đúng biến môi trường &lt;code&gt;JAVA_HOME&lt;/code&gt; để sử dụng Java từ dòng lệnh.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
